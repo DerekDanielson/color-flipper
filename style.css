@@ -32,6 +32,6 @@ button:hover {
 
 button:active {
     background-color: #424242;
-    box-shadow: 0 5px #666;
+    box-shadow: 0 5px #667;
     transform: translateY(4px);
 }
