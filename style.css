@@ -8,19 +8,17 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 60px;
     color: whitesmoke;
 }
 
 button {
     margin-top: 5%;
-    margin-left: 8%;
+    margin-left: 9%;
     padding: 20px;
-    font-size: 24px;
+    font-size: 36px;
     font-family: 'Caveat', cursive;
     text-align: center;
-    text-decoration: none;
-    outline: none;
     color: whitesmoke;
     background-color: #545554;
     border: none;
